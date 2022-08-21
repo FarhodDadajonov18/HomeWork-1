@@ -1,0 +1,7 @@
+body{
+  background-color: rgb(96, 127, 154);
+}
+h1{
+  background-image: linear-gradient(90deg, red,white ,blue);
+  color: rgb(92, 84, 84);
+}
